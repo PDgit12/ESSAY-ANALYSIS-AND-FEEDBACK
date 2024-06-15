@@ -1,0 +1,1 @@
+This script creates a Streamlit web application for automated essay analysis and feedback. The app uses various NLP tools to provide insights on word count, sentence count, grammar errors, sentiment analysis, and average word length.
